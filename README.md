@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Yamen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Developer;Web+Developer;React+%26+Next.js+Developer;ASP.NET+%26+Laravel+Developer;Unity+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Development;Web+Development;Learning+JavaScript;Learning+React;Learning+ASP.NET;Learning+Next.js;Learning+Laravel" />
 </p>
 
-<h3 align="center">🎮 Game Development & 🌐 Web Development Enthusiast</h3>
+<h3 align="center">🎮 Game Development & 🌐 Web Development Learner</h3>
 
 ---
 
@@ -14,8 +14,8 @@
 
 - 🎮 Interested in Game Development
 - 🌐 Interested in Web Development
-- 💻 Passionate about building games and web applications
-- 🌱 Currently improving my skills in modern technologies
+- 💻 Building small projects to improve my skills
+- 📚 Currently learning JavaScript, React, ASP.NET, Next.js, and Laravel
 - 🎯 Goal: Become a professional Software Engineer
 
 ---
@@ -25,18 +25,20 @@
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Backend
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Game Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Currently Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,14 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamen-BK&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamen-BK&theme=tokyonight" />
 </p>
 
 ---
