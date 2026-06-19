@@ -1,34 +1,49 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:8b5cf6&text=Yamen%20BK&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+
 <h1 align="center">Hi 👋, I'm Yamen</h1>
-<h3 align="center">Software Developer from Syria 🇸🇾</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yamen-BK&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Game+Developer+🎮;Web+Developer+🌐;React+%26+Next.js+Developer;ASP.NET+%26+Laravel+Developer;Unity+Developer+🚀;Always+Learning+New+Things+💡" />
 </p>
+
+<h3 align="center">🎮 Game Development & 🌐 Web Development Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently learning React & ASP.Net & C#
-- 💻 Interested in Game Development & Web Development
-- 🎯 Goal: Become a professional game Developer
-- 📫 Reach me on GitHub
+- 🎮 Interested in Game Development
+- 🌐 Interested in Web Development
+- 💻 Passionate about building games and web applications
+- 🌱 Currently improving my skills in modern technologies
+- 🎯 Goal: Become a professional Software Engineer
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Frontend | Backend | Game Dev | Tools |
-|---|---|---|---|
-| HTML | ASP.NET | Unity | Git |
-| CSS | Laravel | C# | GitHub |
-| JavaScript | Python |  | VS Code |
-| React |  |  | Visual Studio |
-| Next.js |  |  | Linux |
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,laravel,dotnet,cs,python,unity,git,github,vscode,visualstudio,linux" />
-</p>
+#### Backend
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Game Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
@@ -48,8 +63,34 @@
 
 ---
 
+### 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamen-BK&theme=tokyonight" />
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yamen-BK&theme=tokyo-night" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yamen-BK/Yamen-BK/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,100:0ea5e9"/>
