@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:8b5cf6&text=Yamen%20BK&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,50:2563eb,100:9333ea&text=Yamen%20BK&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Game%20Developer%20%7C%20Web%20Developer&descSize=22&descAlignY=60"/>
 
 <h1 align="center">Hi 👋, I'm Yamen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Game+Developer+🎮;Web+Developer+🌐;React+%26+Next.js+Developer;ASP.NET+%26+Laravel+Developer;Unity+Developer+🚀;Always+Learning+New+Things+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Developer;Web+Developer;React+%26+Next.js+Developer;ASP.NET+%26+Laravel+Developer;Unity+Developer;Always+Learning+New+Things" />
 </p>
 
 <h3 align="center">🎮 Game Development & 🌐 Web Development Enthusiast</h3>
@@ -79,18 +79,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yamen-BK/Yamen-BK/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ### 💭 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,100:0ea5e9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333ea,50:2563eb,100:020024"/>
