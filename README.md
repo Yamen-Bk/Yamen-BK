@@ -71,10 +71,10 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yamen-BK&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/Yamen-BK/Yamen-BK/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
