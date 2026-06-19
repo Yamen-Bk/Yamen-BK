@@ -72,11 +72,3 @@
 </p>
 
 ---
-
-### 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333ea,50:2563eb,100:020024"/>
