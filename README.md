@@ -16,38 +16,40 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github,vscode,firebase,mysql" />
+| Frontend | Backend | Game Dev | Tools |
+|---|---|---|---|
+| HTML | ASP.NET | Unity | Git |
+| CSS | Laravel | C# | GitHub |
+| JavaScript | Python |  | VS Code |
+| React |  |  | Visual Studio |
+| Next.js |  |  | Linux |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,laravel,dotnet,cs,python,unity,git,github,vscode,visualstudio,linux" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Yamen-BK&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yamen-BK&show_icons=true&theme=tokyonight&hide=issues,contribs" />
+</p>
 
-![](https://streak-stats.demolab.com?user=Yamen-BK&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yamen-BK&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamen-BK&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Yamen-BK&theme=tokyonight&no-frame=true&row=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamen-BK&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Yamen-BK&theme=tokyo-night)
-
----
-
-### 🤝 Connect With Me
-
-<a href="https://github.com/Yamen-BK">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yamen-BK&theme=tokyo-night" />
+</p>
