@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋 I'm Yamen</h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Development;Web+Development;Learning+JavaScript;Learning+React;Learning+ASP.NET;Learning+Next.js;Learning+Laravel" />
 </p>
