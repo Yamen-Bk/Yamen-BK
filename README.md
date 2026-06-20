@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,50:2563eb,100:9333ea&text=Yamen%20BK&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Game%20Developer%20%7C%20Web%20Developer&descSize=22&descAlignY=60"/>
 
-<h1 align="center">Hi 👋, I'm Yamen</h1>
+<h1 align="center">Hi 👋 I'm Yamen</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Development;Web+Development;Learning+JavaScript;Learning+React;Learning+ASP.NET;Learning+Next.js;Learning+Laravel" />
